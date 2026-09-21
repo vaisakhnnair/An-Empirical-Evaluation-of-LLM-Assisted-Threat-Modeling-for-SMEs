@@ -1,7 +1,6 @@
 # An Empirical Evaluation of LLM-Assisted Threat Modeling for SMEs
 
 **Author:** Vaisakh Narayanan Nair — Faculty of Electrical Engineering, Technical University of Applied Sciences Augsburg
-**Full paper:** [`01__Narayanan_Nair_Vaisakh__Paper_v2.pdf`](./01__Narayanan_Nair_Vaisakh__Paper_v2.pdf)
 
 ## Overview
 
